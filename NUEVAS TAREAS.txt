@@ -1,0 +1,5 @@
+1. crear carpeta apis , con los .js de cada entidad y cada entidad tiene n endpoints. basandome en la carpeta apis y entidades .
+2. replicar el useget.  lo encuentro en services hooks http userget (es un modulo de la app que se encarga de estandarizar el llamado a las apis desde la aplicacion)
+3. crear carpetas de lasvistas y dentro crear las vistas de las entidades usando los ejemplo de apis y useget.
+
+en pages , usar solo la logica q llama la api y pintar resultados , esta linea se puede omitir fetchContabilidad.fetch porque es true por defecto
